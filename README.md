@@ -17,3 +17,15 @@ This Python project resizes images and converts them between JPG, PNG, and BMP f
 2. Update the filename in code
 3. Run the script
 4. Download the output images
+
+## Output Images
+
+### JPG
+![Output JPG](outputs/output.jpg)
+
+### PNG
+![Output PNG](outputs/output.png)
+
+### BMP
+![Output BMP](outputs/output.bmp)
+
