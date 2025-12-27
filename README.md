@@ -21,10 +21,10 @@ This Python project resizes images and converts them between JPG, PNG, and BMP f
 ## Output Images
 
 ### JPG
-![Output JPG]([outputs/output.jpg](https://github.com/Himabindu843/image_resize_converter/blob/main/output.jpg))
+!(https://github.com/Himabindu843/image_resize_converter/blob/main/output.jpg)
 
 ### PNG
-![Output PNG](outputs/output.png)
+!(https://github.com/Himabindu843/image_resize_converter/blob/main/output.png)
 
 ### BMP
 ![Output BMP](outputs/output.bmp)
